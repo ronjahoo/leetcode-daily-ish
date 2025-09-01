@@ -20,6 +20,7 @@ I aim to solve one problem per day, and keep a clean log.
 | Day | Problem | Link | Solution | Notes | Status |
 |----:|---------|------|----------|-------|--------|
 | 001 | Two Sum | [LeetCode #1](https://leetcode.com/problems/two-sum/) | [solution](001-220825_two-sum/solution.py) | Hash map O(n) and Pointers O(n log n) | ✅ |
+| 002 | Add Two Numbers | [LeetCode #2](https://leetcode.com/problems/add-two-numbers/) | [solution](002-010925_add-two-numbers/solution.py) |O(n,m) | ✅ |
 
 ---
 
