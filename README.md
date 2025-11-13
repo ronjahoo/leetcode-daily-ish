@@ -25,6 +25,7 @@ I aim to solve one problem per day, and keep a clean log.
 | 004 | Median of Two Sorted Arrays | [LeetCode #4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [solution](004-100925_median-of-two-sorted-arrays\solution.py) | O(log min(m,n)) | ✅ |
 | 005 | Longest Palindromic Substring | [LeetCode #5](https://leetcode.com/problems/longest-palindromic-substring/) | [solution](005-021025_longest-palindromic-substring\solution.py) | O(n^2) | ✅ |
 | 006 | Zigzag Conversion | [LeetCode #6](https://leetcode.com/problems/zigzag-conversion/) | [solution](006-031025_zigzag-conversion\solution.py) | O(n) | ✅ |
+| 007 | Reverse Integer | [LeetCode #7](https://leetcode.com/problems/reverse-integer/) | [solution](007-131125_reverse-integer\solution.py) | O(n) | ✅ |
 
 ---
 
