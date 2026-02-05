@@ -26,6 +26,8 @@ I aim to solve one problem per day, and keep a clean log.
 | 005 | Longest Palindromic Substring | [LeetCode #5](https://leetcode.com/problems/longest-palindromic-substring/) | [solution](005-021025_longest-palindromic-substring\solution.py) | O(n^2) | ✅ |
 | 006 | Zigzag Conversion | [LeetCode #6](https://leetcode.com/problems/zigzag-conversion/) | [solution](006-031025_zigzag-conversion\solution.py) | O(n) | ✅ |
 | 007 | Reverse Integer | [LeetCode #7](https://leetcode.com/problems/reverse-integer/) | [solution](007-131125_reverse-integer\solution.py) | O(n) | ✅ |
+| 008 | String to Integer | [LeetCode #8](https://leetcode.com/problems/string-to-integer-atoi/) | [solution](008-141125_string-to-integer\solution.py) | O(n) | ✅ |
+| 009 | Palindrome Number | [LeetCode #9](https://leetcode.com/problems/palindrome-number/) | [solution](009-050226_palindrome-number\solution.py) | O(n) | ✅ |
 
 ---
 
