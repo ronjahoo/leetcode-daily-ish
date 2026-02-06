@@ -28,6 +28,7 @@ I aim to solve one problem per day, and keep a clean log.
 | 007 | Reverse Integer | [LeetCode #7](https://leetcode.com/problems/reverse-integer/) | [solution](007-131125_reverse-integer\solution.py) | O(n) | ✅ |
 | 008 | String to Integer | [LeetCode #8](https://leetcode.com/problems/string-to-integer-atoi/) | [solution](008-141125_string-to-integer\solution.py) | O(n) | ✅ |
 | 009 | Palindrome Number | [LeetCode #9](https://leetcode.com/problems/palindrome-number/) | [solution](009-050226_palindrome-number\solution.py) | O(n) | ✅ |
+| 010 | Regular Expression Matching | [LeetCode #10](https://leetcode.com/problems/regular-expression-matching/) | [solution](010-060226_regular-expression-matching) | O(n*m) | ✅ |
 
 ---
 
