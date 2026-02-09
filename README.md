@@ -30,6 +30,7 @@ I aim to solve one problem per day, and keep a clean log.
 | 009 | Palindrome Number | [LeetCode #9](https://leetcode.com/problems/palindrome-number/) | [solution](009-050226_palindrome-number\solution.py) | O(n) | ✅ |
 | 010 | Regular Expression Matching | [LeetCode #10](https://leetcode.com/problems/regular-expression-matching/) | [solution](010-060226_regular-expression-matching) | O(n*m) | ✅ |
 | 011 | Container With Most Water | [LeetCode #11](https://leetcode.com/problems/container-with-most-water/) | [solution](011-070226_container-with-most-water) | O(n) | ✅ |
+| 012 | Integer to Roman | [LeetCode #12](https://leetcode.com/problems/integer-to-roman/) | [solution](012-090226_integer-to-roman) | O(1) | ✅ |
 ---
 
 ## ⚙️ Running locally
