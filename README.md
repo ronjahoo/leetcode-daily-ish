@@ -32,6 +32,7 @@ I aim to solve one problem per day, and keep a clean log.
 | 011 | Container With Most Water | [LeetCode #11](https://leetcode.com/problems/container-with-most-water/) | [solution](011-070226_container-with-most-water) | O(n) | ✅ |
 | 012 | Integer to Roman | [LeetCode #12](https://leetcode.com/problems/integer-to-roman/) | [solution](012-090226_integer-to-roman) | O(1) | ✅ |
 | 013 | Roman to Integer | [LeetCode #13](https://leetcode.com/problems/roman-to-integer/) | [solution](013-100226_roman-to-integer) | O(n) | ✅ |
+| 014 | Longest Common Prefix | [LeetCode #14](https://leetcode.com/problems/longest-common-prefix/) | [solution](014-130226_longest-common-prefix) | O(n*m) | ✅ |
 
 ---
 
