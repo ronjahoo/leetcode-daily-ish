@@ -23,7 +23,7 @@ I aim to solve one problem per day, and keep a clean log.
 | 002 | Add Two Numbers | [LeetCode #2](https://leetcode.com/problems/add-two-numbers/) | [solution](002-010925_add-two-numbers/solution.py) |O(n,m) | ✅ |
 | 003 | Longest Substring Without Repeating Characters | [LeetCode #3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [solution](003-050925_longest-subtring/solution.py) |O(n) | ✅ |
 | 004 | Median of Two Sorted Arrays | [LeetCode #4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [solution](004-100925_median-of-two-sorted-arrays\solution.py) | O(log min(m,n)) | ✅ |
-| 005 | Longest Palindromic Substring | [LeetCode #5](https://leetcode.com/problems/longest-palindromic-substring/) | [solution](005-021025_longest-palindromic-substring\solution.py) | O(n^2) | ✅ |
+| 005 | Longest Palindromic Substring | [LeetCode #5](https://leetcode.com/problems/longest-palindromic-substring/) | [solution](005-021025_longest-palindromic-substring\solution.py) | O(n²) | ✅ |
 | 006 | Zigzag Conversion | [LeetCode #6](https://leetcode.com/problems/zigzag-conversion/) | [solution](006-031025_zigzag-conversion\solution.py) | O(n) | ✅ |
 | 007 | Reverse Integer | [LeetCode #7](https://leetcode.com/problems/reverse-integer/) | [solution](007-131125_reverse-integer\solution.py) | O(n) | ✅ |
 | 008 | String to Integer | [LeetCode #8](https://leetcode.com/problems/string-to-integer-atoi/) | [solution](008-141125_string-to-integer\solution.py) | O(n) | ✅ |
@@ -33,6 +33,7 @@ I aim to solve one problem per day, and keep a clean log.
 | 012 | Integer to Roman | [LeetCode #12](https://leetcode.com/problems/integer-to-roman/) | [solution](012-090226_integer-to-roman) | O(1) | ✅ |
 | 013 | Roman to Integer | [LeetCode #13](https://leetcode.com/problems/roman-to-integer/) | [solution](013-100226_roman-to-integer) | O(n) | ✅ |
 | 014 | Longest Common Prefix | [LeetCode #14](https://leetcode.com/problems/longest-common-prefix/) | [solution](014-130226_longest-common-prefix) | O(n*m) | ✅ |
+| 015 | 3Sum | [LeetCode #15](https://leetcode.com/problems/3sum/) | [solution](015-160226_3sum) | O(n²) | ✅ |
 
 ---
 
