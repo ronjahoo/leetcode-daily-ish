@@ -34,6 +34,7 @@ I aim to solve one problem per day, and keep a clean log.
 | 013 | Roman to Integer | [LeetCode #13](https://leetcode.com/problems/roman-to-integer/) | [solution](013-100226_roman-to-integer) | O(n) | ✅ |
 | 014 | Longest Common Prefix | [LeetCode #14](https://leetcode.com/problems/longest-common-prefix/) | [solution](014-130226_longest-common-prefix) | O(n*m) | ✅ |
 | 015 | 3Sum | [LeetCode #15](https://leetcode.com/problems/3sum/) | [solution](015-160226_3sum) | O(n²) | ✅ |
+| 016 | 3Sum Closest | [LeetCode #16](https://leetcode.com/problems/3sum-closest/) | [solution](016-170226_3sum-closest) | O(n²) | ✅ |
 
 ---
 
