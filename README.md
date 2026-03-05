@@ -38,6 +38,7 @@ I aim to solve one problem per day, and keep a clean log.
 | 017 | Letters Combinations of a Phone Number | [LeetCode #17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [solution](017-180226_letter-combinations-of-a-phone-number) |  O(4ⁿ) | ✅ |
 | 018 | 4Sum | [LeetCode #18](https://leetcode.com/problems/4sum/) | [solution](018-210226_4sum) |  O(n³) | ✅ |
 | 019 | Remove Nth Node From End of List | [LeetCode #19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [solution](019-230226_remove-nth-node-from-end-of-list) |  O(n) | ✅ |
+| 020 | Valid Parantheses| [LeetCode #20](https://leetcode.com/problems/valid-parentheses/) | [solution](020-050326_valid-parantheses) |  O(n) | ✅ |
 
 ---
 
