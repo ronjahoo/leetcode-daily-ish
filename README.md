@@ -41,6 +41,7 @@ I aim to solve one problem per day, and keep a clean log.
 | 020 | Valid Parantheses| [LeetCode #20](https://leetcode.com/problems/valid-parentheses/) | [solution](020-050326_valid-parantheses) |  O(n) | ✅ |
 | 021 | Merge Two Sorted Arrays| [LeetCode #21](https://leetcode.com/problems/merge-two-sorted-lists/) | [solution](021-060326_merge-two-sorted-lists) |  O(n+m) | ✅ |
 | 022 | Generate Parantheses| [LeetCode #22](https://leetcode.com/problems/generate-parentheses/) | [solution](022-080326_generate-parantheses) |  O(4ⁿ / √n) | ✅ |
+| 023 | Merge k Sorted Lists| [LeetCode #23](https://leetcode.com/problems/merge-k-sorted-lists/) | [solution](023-100326_merge-k-sorted-lists) |  O(N log k) | ✅ |
 
 ---
 
